@@ -48,9 +48,7 @@ techaudit/
 
 🧪 Como usar
 ```
-cd WinScope
-python main.py
-
+Basta clicar no app.bat que ele inicia a ferramenta.
 ```
 
 ⚠️ Finalidade educacional
