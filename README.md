@@ -43,12 +43,12 @@ techaudit/
 │   ├── ip_config_validator.py
 │   └── check_windows_services.py
 ├── requirements.txt
-└── run_tool.bat
+└── app.bat
 ```
 
 🧪 Como usar
 ```
-cd techaudit
+cd WinScope
 python main.py
 
 ```
